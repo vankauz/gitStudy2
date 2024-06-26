@@ -1,1 +1,2 @@
 master.txt입니다
+master에서 한줄 추가함
